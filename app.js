@@ -40,5 +40,3 @@ ca_imagen.forEach(c => c.addEventListener('click', cambiarimagen));
 
 
 
-
-
