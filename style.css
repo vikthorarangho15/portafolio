@@ -257,7 +257,7 @@ body{
 
 .buy{
     padding: .1rem 1rem;
-    background-color: #2175f5;    
+    background-color: #005DA9;    
     text-decoration: none;
     color: #fff;
     text-transform: uppercase;
@@ -344,8 +344,8 @@ body{
 
 .ficha{
     margin:auto;
-    padding: .1rem 1rem;
-    background-color:#2175f5;    
+    padding: .1rem .5rem;
+    background-color:#005DA9;    
     text-decoration: none;
     color: #fff;
     text-transform: uppercase;
@@ -353,6 +353,7 @@ body{
     transition: .5s;
     cursor: pointer;
     justify-content: space-between;
+    margin-top: 0.5rem;
     
 }
 .ficha:hover{
